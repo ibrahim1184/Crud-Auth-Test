@@ -155,8 +155,3 @@ lib/
 │   └── crud/           # CRUD operasyonları
 └── shared/             # Ortak widget'lar
 ```
-4. **Gerçekçi Veri Modelleri** - Uygulama yapısını yansıtan örnekler
-5. **Teknoloji Vurgusu** - Kullanılan tüm teknolojilerin açıklamaları
-6. **Hazır Kod Blokları** - Projeye direkt entegre edilebilir fonksiyonlar
-
-**Not:** Görsellerinizi `assets/screens/` klasörüne eklediğinizden ve dosya isimlerinin yukarıdaki örneklerle eşleştiğinden emin olun. Firebase SMS doğrulama için gerekli ayarları yapmayı unutmayın.
